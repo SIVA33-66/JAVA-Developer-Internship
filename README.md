@@ -1,2 +1,1 @@
-I’ve recently started my Java Developer Internship with Elevate Labs, and this repository will serve as a live log of my learning journey and hands-on projects. As I progress through backend development concepts like Core Java, JDBC, and Spring Boot, I’ll be sharing code samples, tasks, and insights gained along the way.
-This is a work-in-progress space where I explore real-world applications of Java in the E-Learning domain, contribute to meaningful projects, and sharpen my skills one task at a time.
+
