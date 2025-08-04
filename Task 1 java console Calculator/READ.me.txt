@@ -1,0 +1,25 @@
+# Java Calculator
+
+---- Task Overview
+This is a simple **Java-based console calculator** that allows users to perform basic arithmetic operations — Addition, Subtraction, Multiplication, and Division. The calculator prompts the user for input and performs calculations interactively until the user chooses to exit.
+
+
+---- Technologies Used
+- **Java**: Core language used for building the console app
+- **Scanner Class**: For reading user inputs
+- **Methods**: Encapsulated logic for each arithmetic operation
+- **Loop & Conditionals**: To manage program flow and error handling
+
+
+---- Features
+- Interactive prompts with friendly messaging
+- Separate methods for each operation
+- Handles division by zero gracefully
+- Supports repeated calculations using a `while` loop
+- Console-based, lightweight, and easy to run
+
+
+---- How to Run
+1. Copy the code from the provided `FriendlyCalculator.java` file.
+2. Open any Java IDE or text editor and paste the code.
+3. Compile using:  
