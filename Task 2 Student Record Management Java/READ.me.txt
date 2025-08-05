@@ -1,0 +1,22 @@
+Student Record Management System With Java 
+
+---Overview
+
+* This is a console-based Java application designed to manage student records. 
+* It allows users to **add**, **view**, **update**, and **delete** student information such as ID, name, and marks. 
+* It's a simple yet effective example of using Java OOP principles, collections, and input handling.
+
+---Technologies Used
+
+* Java (Core + Basic OOP concepts)
+* Array List for dynamic data storage
+* Scanner for input handling
+
+---Features
+
+* Add new student records
+* View all stored student details
+* Update a student’s name or marks
+* Delete student records by ID
+* Input validation to prevent crashes
+
