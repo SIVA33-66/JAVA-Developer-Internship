@@ -20,6 +20,6 @@ This is a simple **Java-based console calculator** that allows users to perform 
 
 
 ---- How to Run
-1. Copy the code from the provided `FriendlyCalculator.java` file.
-2. Open any Java IDE or text editor and paste the code.
-3. Compile using:  
+1. Click view raw, its Download the code File from the provided `FriendlyCalculator.java` file.
+2. Open With Java IDE or text editor to run code.
+3. Then Compile.
