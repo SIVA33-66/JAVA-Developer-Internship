@@ -1,0 +1,21 @@
+Library Management System
+
+---- Description
+
+This Java-based Library Management System is a console application built using Object-Oriented Programming principles.
+It allows users to add books and students dynamically, issue and return books, and view the current library status.
+
+---- Features
+
+It allows users to:
+- Add books and students dynamically via console input
+- Issue and return books
+- View all available books and registered users.
+
+---- Project Structure 
+
+Book.java - Book class with issue/return logic.
+User.java - Student/User class.
+Library.java - Core logic for managing books and users.
+Main.java - Console interface using Scanner.
+
