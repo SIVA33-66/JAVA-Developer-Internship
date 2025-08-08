@@ -1,0 +1,18 @@
+---- About the Project
+
+A beginner-friendly Java console application that allows users to write and view personal notes using file I/O.  
+This project demonstrates basic file handling, user input, and error management in Java.
+
+---- Features
+
+- Add new notes via console input
+- View all saved notes from a text file
+- Automatically creates `notes.txt` if it doesn't exist
+- Handles file-related exceptions gracefully
+
+---- Technologies Used
+
+- Java (Standard Edition)
+- `FileWriter` and `BufferedReader` for file operations
+- `Scanner` for user input
+
