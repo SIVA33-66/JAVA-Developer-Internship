@@ -1,0 +1,13 @@
+Java Swing To-Do List Application
+
+--- Project Overview:
+
+This is a lightweight desktop-based To-Do List application built using Java Swing. 
+It allows users to manage daily tasks with a simple and intuitive interface. 
+The app demonstrates core GUI programming concepts and event-driven logic in Java.
+
+--- Key Features:
+
+Add Task: Users can enter a task and click "Add Task" to include it in the list.
+Delete Task: Users can select a task and click "Delete Task" to remove it.
+Scrollable Task List: Tasks are displayed in a scrollable list for easy navigation.
